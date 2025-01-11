@@ -52162,7 +52162,7 @@
                   className: "top-bar-content",
                   children: [
                     (0, F_.jsx)("a", {
-                      href: "http://SlwrAi.pro",
+                      href: "http://SmileAi.pro",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: (0, F_.jsx)("img", {
